@@ -1,3 +1,6 @@
 . = current directory
 .. = parent directory
  git clone http://github.com/amannagda/gyanodaya.git -b master
+
+How to check on which remote repository we are uploading our code ?
+git remote -v
